@@ -249,6 +249,27 @@
     "timestamp": "2025-05-06_073517"
   },
   {
+  "walletAddress": "L40I4K5NVIIQ",
+  "userName": "Kewalsingh",
+  "stakeAmount": 227500,
+  "roiPercentage": 5,
+  "startDate": "2025-05-15",
+  "expiryDate": "2026-05-14",
+  "uplineReferralCode": "REF40662",
+  "offerDescription": "Standard Subscription",
+  "shortStakeToken": "D3F1DA",
+  "usdInput": null,
+  "stakeToken": "12c4070afb09b58c364239a5245ebb0e533cab9f97dc1ec581a911a65f54c242782c21a7409d3e7910bced22bc445c84508e3a44b18b81cd35d9481a41ee10dcb31886aecf3bb59db4694fc25a5b4b645d5a26860e95779f3b183d29756b94d9bd923d799612d1eafe7bdb6dcac24eac85172783f09b6ce66f7abea0cf49838d",
+  "tokenHash": "d3f1da9937cf63777e6707c47e20d9a0b8378e5b8cdb459b39e9aec062aa8bdc",
+  "referralCode": "REF04c73",
+  "usdValue": 1300,
+  "dailyROI": 11375,
+  "startFormatted": "2025-05-15_000000",
+  "expiryFormatted": "2026-05-14_000000",
+
+  "timestamp": "2025-05-14_211606"
+  },
+  {
     "walletAddress": "0x4d0D938672c6fD8c38063728FC1e583c82a10Ff5",
     "userName": "SureshPatel",
     "stakeAmount": 21000,
